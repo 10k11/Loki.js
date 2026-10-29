@@ -1,0 +1,24 @@
+node_modules/
+dist/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Runtime data
+data/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Archives
+*.zip
+*.tar.gz
