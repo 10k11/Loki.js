@@ -7,8 +7,6 @@ A modular Discord bot for CTF teams and tech communities: server scaffolding, te
 ![Node.js](https://img.shields.io/badge/Node.js-%E2%89%A518-339933?logo=node.js&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-![Loki.js in a Discord server](docs/screenshots/overview.png)
-
 ## Features
 
 - **Server setup**: `/setup preview` and `/setup apply` create the missing categories and channels from a predefined layout without duplicating existing ones.
